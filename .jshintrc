@@ -1,0 +1,20 @@
+{
+    "curly":true,
+    "eqeqeq":false,
+    "undef":true,
+    "unused":false,
+    "eqnull":true,
+    "noarg":true,
+    "nonew":false,
+    "browser":true,
+    "jquery":true,
+    "evil":true,
+    "laxcomma":true,
+    "devel":false,
+    "globals": {
+        "m": true,
+        "dashboard": true,
+        "home": true,
+        "todo":true
+    }
+}
